@@ -1,0 +1,17 @@
+.container{
+    width: 95%;
+    margin: 2px auto;
+    background-color: rgba(0, 0, 0, 0.136);
+    border-radius: 4px;
+}
+.container .portfolio{
+    margin: 2px auto;
+    width: fit-content;
+    font-size: 60px;
+    text-transform: capitalize;
+}
+@media(max-width :600px){
+ .container{
+    width: 100%;
+ }
+}

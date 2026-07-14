@@ -1,0 +1,69 @@
+.skills{
+    background-color: rgba(0, 0, 0, 0.502);
+    gap: 20px;
+    margin: 0;
+    padding: 2px;
+    height: 100vh; 
+}
+.skills .skill{
+  margin: 6px 5px;
+  width: 80%;
+  padding: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+@media(max-width: 970px){
+  .skills .skill{
+    display: flex;
+    flex-direction: column;
+    margin: 10px auto;
+    width: 100%;
+    align-items: center;
+    gap: 5px;
+  }
+}
+.skills .skill > span{
+  display: block;
+}
+.skills .skill .name{
+  font-size: 25px;
+  font-weight: bold;
+  font-variant: small-caps;
+  color: white;
+}
+.skills .skill .progress{
+  width: 80%;
+  height: 25px;
+  background-color: white
+}
+.skills .skill .progress .the-h{
+  height: 100%;
+  width: 90%;
+  background-color: blue;
+  display: block;
+}
+.the-c{
+  width: 88%;
+  height: 100%;
+  background-color: blue;
+  display: block;
+}
+.the-j{
+  width: 66%;
+  height: 100%;
+  background-color: blue;
+  display: block;
+}
+.the-r{
+  width: 55%;
+  height: 100%;
+  background-color: blue;
+  display: block;
+}
+.the-g{
+  width: 80%;
+  height: 100%;
+  background-color: blue;
+  display: block;
+}
