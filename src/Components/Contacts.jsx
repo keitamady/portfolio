@@ -15,7 +15,7 @@ const Contacts = () => {
             </div>
             <div className="linked">
                 <span>linkedIn:</span>
-                <a href="">linked/keitamady/fils.com</a>
+                <a href="https://www.linkedin.com/in/mamady-keita-0a3310422">visit</a>
             </div>
         </div>
     </div>

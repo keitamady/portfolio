@@ -15,7 +15,7 @@ const Project = () => {
           </div>
         </div>
         <div className="links">
-           <a className='demo' href="">live demo</a>
+           <a className='demo' href="https://my-first-todo-list-teal.vercel.app/">live demo</a>
             <a className='github' href="https://github.com/keitamady/todo">github</a>
         </div>
       </div>
