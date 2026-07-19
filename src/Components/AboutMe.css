@@ -60,7 +60,7 @@
  display: block;
  text-align: center;
 }
-@media(max-width : 600px){
+@media(max-width : 826px){
    .about{
     display: flex;
     flex-direction: column;
